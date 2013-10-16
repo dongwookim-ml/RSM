@@ -4,7 +4,7 @@ import re
 import numpy as np
 
 __author__ = "Dongwoo Kim"
-__date__ = "2013/10/15"
+__date__ = "2013/10/16"
 
 def get_data(filepath, stopwordspath):
     """
